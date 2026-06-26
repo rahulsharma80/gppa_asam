@@ -8,7 +8,7 @@ import pandas
 import strategy_calculator
 import stock_returns_querier
 
-
+#testing
 GROSS_PROFITABILITY_FILE_PATH = ('file://localhost/Users/amounir/Downloads/'
                                  'NYSE NASDAQ Data.xlsx')
 SNP_FILE_PATH = ('file://localhost/Users/amounir/Downloads/'
